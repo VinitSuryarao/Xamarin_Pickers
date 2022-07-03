@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="Pickers.MainPage" BackgroundColor="#b3b3ff">
+
+    <ContentPage.Content>
+        <StackLayout HorizontalOptions="Center" VerticalOptions="Center">
+            <Label Text="Pickers" FontSize="40"/>
+            <Label Text="Select Date"/>
+            <!--Date Picker--> 
+            <DatePicker  x:Name="datePicker" MinimumDate="1901/01/01" MaximumDate="2099/01/01"/>
+            <Label Text="Select Time"/>
+            <!--Time Picker-->
+            <TimePicker  x:Name="timePicker"/>
+            <Label Text="Select City"/>
+            <!--Drop Down List With Hard Code List--> 
+            <Picker  x:Name="cityPicker" Title="Select City">
+                <Picker.ItemsSource>
+                    <x:Array Type="{x:Type x:String}">
+                        <x:String>Mumbai</x:String>
+                        <x:String>Navi Mumbai</x:String>
+                        <x:String>Thane</x:String>
+                    </x:Array>
+                </Picker.ItemsSource>
+            </Picker>
+            <!--Drop Down List With Dynamic List Item Attached-->
+            <Picker x:Name="countryPicker" Title="Select Country"/>
+            <Button Text="Submit" x:Name="btnSubmit" Clicked="Submit_Clicked"/>
+            <Label x:Name="lblText" />
+        </StackLayout>
+    </ContentPage.Content>
+
+</ContentPage>

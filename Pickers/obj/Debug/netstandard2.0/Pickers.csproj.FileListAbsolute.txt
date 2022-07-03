@@ -1,0 +1,15 @@
+E:\Study\Code\Xamarin\Pickers\Pickers\bin\Debug\netstandard2.0\Pickers.deps.json
+E:\Study\Code\Xamarin\Pickers\Pickers\bin\Debug\netstandard2.0\Pickers.dll
+E:\Study\Code\Xamarin\Pickers\Pickers\bin\Debug\netstandard2.0\ref\Pickers.dll
+E:\Study\Code\Xamarin\Pickers\Pickers\bin\Debug\netstandard2.0\Pickers.pdb
+E:\Study\Code\Xamarin\Pickers\Pickers\obj\Debug\netstandard2.0\Pickers.csproj.AssemblyReference.cache
+E:\Study\Code\Xamarin\Pickers\Pickers\obj\Debug\netstandard2.0\Pickers.GeneratedMSBuildEditorConfig.editorconfig
+E:\Study\Code\Xamarin\Pickers\Pickers\obj\Debug\netstandard2.0\App.xaml.g.cs
+E:\Study\Code\Xamarin\Pickers\Pickers\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+E:\Study\Code\Xamarin\Pickers\Pickers\obj\Debug\netstandard2.0\Pickers.AssemblyInfoInputs.cache
+E:\Study\Code\Xamarin\Pickers\Pickers\obj\Debug\netstandard2.0\Pickers.AssemblyInfo.cs
+E:\Study\Code\Xamarin\Pickers\Pickers\obj\Debug\netstandard2.0\Pickers.csproj.CoreCompileInputs.cache
+E:\Study\Code\Xamarin\Pickers\Pickers\obj\Debug\netstandard2.0\XamlC.stamp
+E:\Study\Code\Xamarin\Pickers\Pickers\obj\Debug\netstandard2.0\Pickers.dll
+E:\Study\Code\Xamarin\Pickers\Pickers\obj\Debug\netstandard2.0\ref\Pickers.dll
+E:\Study\Code\Xamarin\Pickers\Pickers\obj\Debug\netstandard2.0\Pickers.pdb
